@@ -2,7 +2,7 @@
   "name": "insert-character",
   "displayName": "Insert Character",
   "description": "This extension inserts some special characters to the active editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "rssowl.png",
   "license": "MIT",
   "repository": {
