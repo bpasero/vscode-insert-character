@@ -14,8 +14,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "insert-character.helloWorld",
-        "title": "Hello World"
+        "command": "insert-character.pipe",
+        "title": "Insert Pipe Character"
+      },
+      {
+        "command": "insert-character.angelbrackets",
+        "title": "Insert Angel Brackets Character"
       }
     ]
   },
