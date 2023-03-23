@@ -1,8 +1,18 @@
 {
   "name": "insert-character",
-  "displayName": "insert-character",
+  "displayName": "Insert Character",
   "description": "This extension inserts some special characters to the active editor",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "icon": "rssowl.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bpasero/vscode-insert-character.git"
+  },
+  "bugs": {
+      "url": "https://github.com/bpasero/vscode-insert-character/issues"
+  },
+  "publisher": "rssowl",
   "engines": {
     "vscode": "^1.76.0"
   },
