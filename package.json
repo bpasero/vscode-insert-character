@@ -2,7 +2,7 @@
   "name": "insert-character",
   "displayName": "Insert Character",
   "description": "This extension inserts some special characters to the active editor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "rssowl.png",
   "license": "MIT",
   "repository": {
@@ -28,12 +28,20 @@
         "title": "Insert Pipe Character"
       },
       {
-        "command": "insert-character.angelbrackets",
-        "title": "Insert Angel Brackets Character"
+        "command": "insert-character.anglebrackets",
+        "title": "Insert Angle Brackets Character"
       },
       {
         "command": "insert-character.singleQuote",
         "title": "Insert Single Quote Character"
+      },
+      {
+        "command": "insert-character.greater",
+        "title": "Insert Greater Character"
+      },
+      {
+        "command": "insert-character.smaller",
+        "title": "Insert Smaller Character"
       }
     ]
   },
